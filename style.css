@@ -4,6 +4,7 @@
     list-style: none;
     font-size: 25px;
     font-family: Arial;
+    cursor:url(fundo.png);
 }
 
 header{
@@ -13,6 +14,8 @@ header{
     padding: 30px;
     background-color: black;
     flex-wrap: wrap;
+    cursor:url(fundo.png);
+    
 }
 
 .logo{
