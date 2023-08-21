@@ -12,7 +12,7 @@ header{
     justify-content: space-between;
     align-items: red;
     padding: 30px;
-    background-color: black;
+    background-color: red;
     flex-wrap: wrap;
     cursor:url(fundo.png);
     
