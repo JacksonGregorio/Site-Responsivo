@@ -26,6 +26,7 @@ a {
     color: purple;
     text-decoration: none;
     font-family: sans-serif;
+    cursor:url(fundo.png);
 }
 
 ul {
@@ -72,6 +73,7 @@ ul {
 #menu a {
   display: block;
   padding: 0.5rem;
+cursor:url(fundo.png);
 }
 
 #btn-mobile {
